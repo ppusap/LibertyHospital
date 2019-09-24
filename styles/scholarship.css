@@ -14,7 +14,7 @@ h1 {
 position: absolute;
 margin: 0;
 font-size: 4em;
-color: #606161;
+color: #095484;
 z-index: 2;
 }
 h2 {
@@ -172,5 +172,8 @@ width: 10em
 }
 .city-item select {
 width: 5em
+}
+.error {
+    color: red;
 }
 } 
